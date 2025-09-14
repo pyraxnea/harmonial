@@ -33,11 +33,7 @@
     "chara/human/c1601/obj/body/b0001/material/v0004/mt_c1601b0001_bibo.mtrl": "chara\\human\\c1601\\obj\\body\\b0001\\material\\v0004\\mt_c1601b0001_bibo.mtrl",
     "chara/human/c1601/obj/body/b0001/material/v0005/mt_c1601b0001_bibo.mtrl": "chara\\human\\c1601\\obj\\body\\b0001\\material\\v0005\\mt_c1601b0001_bibo.mtrl",
     "chara/human/c1801/obj/body/b0001/material/v0001/mt_c1801b0001_bibo.mtrl": "chara\\human\\c1801\\obj\\body\\b0001\\material\\v0001\\mt_c1801b0001_bibo.mtrl",
-    "chara/human/c0401/obj/body/b0001/material/v0001/mt_c0401b0001_a.mtrl": "chara\\human\\c0401\\obj\\body\\b0001\\material\\v0001\\mt_c0401b0001_a.mtrl",
-    "chara/equipment/e0000/model/c0201e0000_top.mdl": "chara\\equipment\\e0000\\model\\c0201e0000_top.mdl",
-    "chara/equipment/e0000/model/c0201e0000_dwn.mdl": "chara\\equipment\\e0000\\model\\c0201e0000_dwn.mdl",
-    "chara/equipment/e0000/model/c0201e0000_glv.mdl": "chara\\equipment\\e0000\\model\\c0201e0000_glv.mdl",
-    "chara/equipment/e0000/model/c0201e0000_sho.mdl": "chara\\equipment\\e0000\\model\\c0201e0000_sho.mdl"
+    "chara/equipment/e0000/model/c0201e0000_top.mdl": "chara\\equipment\\e0000\\model\\c0201e0000_top.mdl"
   },
   "FileSwaps": {},
   "Manipulations": []
